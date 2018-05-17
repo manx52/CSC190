@@ -1,0 +1,11 @@
+0.  TODO An artificial long word said to mean a lung diease caused by inhaling very fine ash and sand dust
+1.  TODO Return resource usage statistics for the calling process,  which  is the sum of resources used by all threads in the process
+2.  TODO 16, 2 structs, 16 longs
+3.  TODO It woud take too much memory and time
+4.  TODO In main the loop checks every letter of a word to determine whether it's an acceptible word. Once the loop finds a word we check our database whther that word exist and report how many mispelled words are in the text file
+5.  TODO Words that have numbers and any other kind of characters could easily slip through.
+6.  TODO Because you dont want to change any of the words contents
+7.  TODO I used a Hashtable that stores the nodes of each word with the same starting letter.
+8.  TODO 0.73
+9.  TODO I didn't make any
+10. TODO The amount of hash buckets compared to words
